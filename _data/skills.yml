@@ -1,12 +1,18 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Backend development
+  description: C# .net core, Kotlin & Spring
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Web
+  description: JavaScript
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Database
+  description: MySQL, PostgreSQL, DynamoDB, AuroraDB
+  
+- skill: AWS infrastructure
+  description: EC2, Elastic Beanstalk, ECS, RDS, S3, Athena, CloudFront, CloudFormation, SNS, CloudWatch
+  
+- skill: ETC
+  description: docker, jenkins, ELK (Elastic Search, Logstash, Kibana)
