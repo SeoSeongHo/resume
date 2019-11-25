@@ -1,16 +1,10 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Adbrix Remaster
+  role: Backend 개발자
+  duration: Sep, 2018 &mdash; Present
+  url: "http://adbrix.io/"
+  description: 광고 트래픽을 추적하는 솔루션으로, 1일 수천억 개의 요청을 견뎌내는 WAS, 멀티 스레딩 환경에서 빠르게 대량의 데이터를 처리하는, 람다형 Worker 들을 구현 및 리팩토링. CI, CD / TDD / Stressful Test 까지 자동화와 테스팅 환경을 주도함.
