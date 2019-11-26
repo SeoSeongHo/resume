@@ -5,8 +5,7 @@
   role: Backend Developer
   duration: Sep, 2018 &mdash; Present
   url: "http://adbrix.io/"
-  description: 광고 트래픽을 추적 및 분석하는 솔루션으로, 하루 수 억 개의 요청을 처리하는 WAS, 멀티 스레딩 환경에서 대량의 데이터를 처리하는 Worker 들을 구현 및 리팩토링.
-  CI, CD 를 통하여 자동화 시스템을 구축하고, ELK 를 통하여 로그 수집 및 신속한 문제 상황 파악
+  description: 광고 트래픽을 추적 및 분석하는 솔루션으로, 하루 수 억 개의 요청을 처리하는 WAS, 멀티 스레딩 환경에서 대량의 데이터를 처리하는 Worker 들을 구현 및 리팩토링. CI, CD 를 통하여 자동화 시스템을 구축하고, ELK 를 통하여 로그 수집 및 신속한 문제 상황 파악
   
 - project: Adbrix Remaster Fraud-Kill-Chain
   role: Backend Developer
