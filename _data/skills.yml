@@ -1,13 +1,10 @@
 # Skills
-# Organizational leadership
 - skill: Backend development
   description: C# .net core, Kotlin & Spring
 
-# Communications strategy
 - skill: Web
   description: JavaScript
 
-# Digital content development and creation
 - skill: Database
   description: MySQL, PostgreSQL, DynamoDB, AuroraDB
   

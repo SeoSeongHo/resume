@@ -6,4 +6,4 @@
 - company: IGAWorks
   position: Backend Developer
   duration: Nov, 2018 &mdash; Present, 
-  summary: Adbrix Remaster Backend 신규 기능 개발 및 유지 보수. 1일 수천억 개의 요청을 받아내는 WAS, 멀티 스레딩 환경에서 빠르게 대량의 데이터를 처리하는, Worker (람다) 들을 구현 및 리팩토링. CI, CD / TDD / Stressful Test 까지 자동화와 테스팅 환경을 주도함.
+  summary: Adbrix Backend Developer, 하루 수 억 개의 요청을 처리하는 WAS, 멀티 스레딩 환경에서 대량의 데이터를 처리하는 Worker 들을 구현 및 리팩토링. 

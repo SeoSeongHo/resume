@@ -1,10 +1,21 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-
-# Springfield Community Outreach Group
-- project: Adbrix Remaster
-  role: Backend 개발자
+- project: Adbrix Remaster Backend
+  role: Backend Developer
   duration: Sep, 2018 &mdash; Present
   url: "http://adbrix.io/"
-  description: 광고 트래픽을 추적하는 솔루션으로, 1일 수천억 개의 요청을 견뎌내는 WAS, 멀티 스레딩 환경에서 빠르게 대량의 데이터를 처리하는, 람다형 Worker 들을 구현 및 리팩토링. CI, CD / TDD / Stressful Test 까지 자동화와 테스팅 환경을 주도함.
+  description: 광고 트래픽을 추적 및 분석하는 솔루션으로, 하루 수 억 개의 요청을 처리하는 WAS, 멀티 스레딩 환경에서 대량의 데이터를 처리하는 Worker 들을 구현 및 리팩토링.
+  CI, CD 를 통하여 자동화 시스템을 구축하고, ELK 를 통하여 로그 수집 및 신속한 문제 상황 파악
+  
+- project: Adbrix Remaster Fraud-Kill-Chain
+  role: Backend Developer
+  duration: Mar, 2019 &mdash; Present
+  url: "http://adbrix.io/"
+  description: 광고 사기 트래픽을 방어하는 프로젝트로, 블랙리스트, S2S 등 다양한 기술을 활용하여, 빅데이터 필터링
+  
+- project: Adbrix Remaster Admin Tool
+  role: Web Developer
+  duration: Sep, 2018 &mdash; Present
+  url: "http://tech.adbrix.io/"
+  description: 애드브릭스 내부 메타 정보 및 raw data (bi) 조회 어드민 툴. c# .net core & Jquery 를 이용하여, AWS Resource, DB 내 데이터를 조회하는 어드민 툴 개발 및 유지보수
