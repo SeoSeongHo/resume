@@ -6,4 +6,4 @@
 - company: IGAWorks
   position: Backend Developer
   duration: Nov, 2018 &mdash; Present, 
-  summary: Adbrix Backend Developer, 하루 수 억 개의 요청을 처리하는 WAS, 멀티 스레딩 환경에서 대량의 데이터를 처리하는 Worker 들을 구현 및 리팩토링. 
+  summary: Adbrix Backend Developer, 수많은 요청을 처리하는 서버 (WAS, Worker) 개발 및 유지보수, 백엔드 어드민 툴 개발, MSA 구조 도입을 시도하고, CI/CD 자동화 파이프라인 구축

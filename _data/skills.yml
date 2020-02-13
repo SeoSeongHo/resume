@@ -12,4 +12,4 @@
   description: EC2, Elastic Beanstalk, ECS, RDS, S3, Athena, CloudFront, CloudFormation, SNS, CloudWatch
   
 - skill: ETC
-  description: docker, jenkins, ELK (Elastic Search, Logstash, Kibana)
+  description: docker, jenkins

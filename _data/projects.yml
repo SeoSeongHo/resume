@@ -5,16 +5,22 @@
   role: Backend Developer
   duration: Sep, 2018 &mdash; Present
   url: "http://adbrix.io/"
-  description: 광고 트래픽을 추적 및 분석하는 솔루션으로, 하루 수 억 개의 요청을 처리하는 WAS, 멀티 스레딩 환경에서 대량의 데이터를 처리하는 Worker 들을 구현 및 리팩토링. CI, CD 를 통하여 자동화 시스템을 구축하고, ELK 를 통하여 로그 수집 및 신속한 문제 상황 파악
+  description: 광고 추적 백엔드 서버 개발 및 유지보수. (C# .net core) 도커 컨테이너 기반 CI / CD 자동화 파이프라인 구축
   
 - project: Adbrix Remaster Fraud-Kill-Chain
   role: Backend Developer
-  duration: Mar, 2019 &mdash; Present
+  duration: Mar, 2019 &mdash; Nov, 2019
   url: "http://adbrix.io/"
-  description: 광고 사기 트래픽을 방어하는 프로젝트로, 블랙리스트, S2S 등 다양한 기술을 활용하여, 빅데이터 필터링
+  description: 광고 사기 트래픽을 방어하는 프로젝트 개발. 블랙리스트, S2S 등 다양한 기술을 활용하여, 빅데이터 필터링
   
 - project: Adbrix Remaster Admin Tool
-  role: Web Developer
+  role: Web & Data Developer
   duration: Sep, 2018 &mdash; Present
   url: "http://tech.adbrix.io/"
-  description: 애드브릭스 내부 메타 정보 및 raw data (bi) 조회 어드민 툴. c# .net core & Jquery 를 이용하여, AWS Resource, DB 내 데이터를 조회하는 어드민 툴 개발 및 유지보수
+  description: 애드브릭스 내부 메타 정보 및 BI 조회 어드민 툴. c# .net core & Jquery 를 이용하여, AWS Resource, DB 내 데이터를 조회하는 어드민 툴 개발 및 유지보수
+  
+- project: Stress Ticket Reservation
+  role: Backend Developer
+  duration: Dec, 2019 &mdash; Feb, 2020
+  url: "https://github.com/SeoSeongHo/stress-ticket-reservation-worker"
+  description: 콘서트 티켓팅처럼 짧은 시간에 수많은 티켓 예약 요청을 처리하는 서버 (WAS, Worker) 구현 (Kotlin + Spring). 클라이언트 대신, 상태 패턴 + 큐를 이용한 수많은 요청을 만들어내는 봇 구현 (C# .net core)
