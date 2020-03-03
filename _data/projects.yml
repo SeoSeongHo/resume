@@ -4,19 +4,16 @@
 - project: Adbrix Remaster Backend
   role: Backend Developer
   duration: Sep, 2018 &mdash; Present
-  url: ""
   description: 애드브릭스 리마스터 서버 개발 및 유지보수. (C# .net core) 도커 컨테이너 기반 CI / CD 자동화 파이프라인 구축
   
 - project: Adbrix Remaster Fraud-Kill-Chain
   role: Backend Developer
   duration: Mar, 2019 &mdash; Nov, 2019
-  url: ""
   description: 광고 사기 트래픽을 방어하는 프로젝트 개발. 블랙리스트, S2S 등 다양한 기술을 활용하여, 빅데이터 필터링 (C# .net core)
   
 - project: Adbrix Remaster Admin Tool
   role: Web & Data Developer
   duration: Sep, 2018 &mdash; Present
-  url: ""
   description: 애드브릭스 내부 메타 정보 및 BI 관련 어드민 툴 개발 및 유지보수 (C# .net core & Jquery) 도커 컨테이너 기반 CI / CD 자동화 파이프라인 구축
   
 - project: SNUPA Backend
