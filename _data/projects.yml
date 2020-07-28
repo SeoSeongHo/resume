@@ -31,10 +31,10 @@
 - project: Gongbaek - 공부백반
   role: Backend Developer
   duration: Jul, 2020 &mdash; Present
-  description: 창업 동아리 진행 프로젝트. 사교육 중개 및 멘토링 앱 프로젝트. 도메인 설계 및 API 서버 개발 및 유지보수 (Java, Kotlin & Spring boot)
+  description: 사이드 프로젝트. 사교육 중개 및 멘토링 앱 프로젝트. 도메인 설계 및 API 서버 개발 및 유지보수 (Java, Kotlin & Spring boot)
   
 - project: JPAShop - Practice
   role: Backend Developer
   duration: Jul, 2020 &mdash; Present
-  url: "https://github.com/SeoSeongHo/spring.practice.jpabook/tree/master/src/main/java/jpabook/jpashop"
+  url: "https://github.com/SeoSeongHo/spring.practice.jpabook"
   description: 연습용 프로젝트. 튜토리얼을 참고한 간단한 쇼핑몰 프로젝트. 효율적인 도메인 및 API 설계를 공부 (Java & Spring boot)
