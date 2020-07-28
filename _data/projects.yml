@@ -14,16 +14,27 @@
 - project: Adbrix Remaster Admin Tool
   role: Web & Data Developer
   duration: Sep, 2018 &mdash; Present
-  description: 애드브릭스 내부 메타 정보 및 BI 관련 어드민 툴 개발 및 유지보수 (C# .net core & Jquery) 도커 컨테이너 기반 CI / CD 자동화 파이프라인 구축
-  
-- project: SNUPA Backend
-  role: Backend Developer
-  duration: Feb, 2020 &mdash; Present
-  url: "https://github.com/SeoSeongHo/SNUPA-BACKEND"
-  description: 동기들과 진행한 팀프로젝트인 SNUPA 백엔드 서버 개발 및 유지보수 (Kotlin & Spring).
+  description: 애드브릭스 내부 어드민 및 BI 조회 서버 개발 및 유지보수 (C# .net core & Jquery)
 
 - project: Stress Ticket Reservation
   role: Backend Developer
   duration: Dec, 2019 &mdash; Feb, 2020
   url: "https://github.com/SeoSeongHo/stress-ticket-reservation"
-  description: 팀프로젝트인 콘서트 티켓팅 서버 개발 (Kotlin & Spring). 클라이언트 대신, 상태 패턴 + 큐를 이용한 많은 요청을 만들어내는 봇 구현 (C# .net core)
+  description: 피어 리뷰 프로젝트. 콘서트 티켓팅 서버 개발 (Kotlin & Spring). 클라이언트 대신, 상태 패턴 + 큐를 이용한 많은 요청을 만들어내는 봇 구현 (C# .net core)
+  
+- project: Delishas - 딜리샤스
+  role: Backend Developer
+  duration: Feb, 2020 &mdash; Present
+  url: "https://github.com/SeoSeongHo/deliSHAs.v2.backend"
+  description: 서울대학교 학식 앱 프로젝트. 크롤러, 캐시 등을 통하여 효율적인 서버 구축. (v1: Kotlin & Spring boot / v2: C# .net core)
+  
+- project: Gongbaek - 공부백반
+  role: Backend Developer
+  duration: Jul, 2020 &mdash; Present
+  description: 창업 동아리 진행 프로젝트. 사교육 중개 및 멘토링 앱 프로젝트. 도메인 설계 및 API 서버 개발 및 유지보수 (Java, Kotlin & Spring boot)
+  
+- project: JPAShop - Practice
+  role: Backend Developer
+  duration: Jul, 2020 &mdash; Present
+  url: "https://github.com/SeoSeongHo/spring.practice.jpabook/tree/master/src/main/java/jpabook/jpashop"
+  description: 연습용 프로젝트. 튜토리얼을 참고한 간단한 쇼핑몰 프로젝트. 효율적인 도메인 및 API 설계를 공부 (Java & Spring boot)

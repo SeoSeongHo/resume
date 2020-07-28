@@ -1,15 +1,18 @@
 # Skills
-- skill: Backend development
-  description: C# .net core, Kotlin & Spring
+- skill: Language
+  description: C, C++, Java, Kotlin, C#
+  
+- skill: Framework
+  description: .Net core, Spring boot
 
 - skill: Web
   description: JavaScript
 
 - skill: Database
-  description: MySQL, PostgreSQL, DynamoDB, AuroraDB
+  description: MySQL, PostgreSQL, DynamoDB, AuroraDB, Redis
 
 - skill: AWS infrastructure
   description: EC2, Elastic Beanstalk, ECS, RDS, S3, Athena, CloudFront, CloudFormation, SNS, CloudWatch
 
 - skill: ETC
-  description: docker, jenkins
+  description: docker, jenkins, nginx
