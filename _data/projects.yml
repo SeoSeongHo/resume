@@ -26,7 +26,7 @@
   role: Backend Developer
   duration: Feb, 2020 &mdash; Present
   url: "https://github.com/SeoSeongHo/deliSHAs.v2.backend"
-  description: 서울대학교 학식 앱 프로젝트. 크롤러, 캐시 등을 통하여 효율적인 서버 구축. (v1: Kotlin & Spring boot / v2: C# .net core)
+  description: 서울대학교 학식 앱 프로젝트. 크롤러, 캐시 등을 통하여 효율적인 서버 구축. (v1 - Kotlin & Spring boot / v2 - C# .net core)
   
 - project: Gongbaek - 공부백반
   role: Backend Developer
